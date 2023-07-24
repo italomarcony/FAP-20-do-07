@@ -1,4 +1,4 @@
-# FAP(Formação Acelerada em Programação)
+# FAP(Formação Acelerada em Programação) - FrontEnd
 
 Repositório para exercícios realizados na aula do dia 20 de Julho de 2023.
 
